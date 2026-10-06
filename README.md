@@ -66,9 +66,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0496-next-greater-element-i](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0901-online-stock-span/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0901-online-stock-span/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0901-online-stock-span/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
