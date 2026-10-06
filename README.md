@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0101-symmetric-tree) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0025-reverse-nodes-in-k-group) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
