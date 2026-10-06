@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0155-min-stack](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0901-online-stock-span/) | Medium |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0155-min-stack/) | Medium |
 | [0901-online-stock-span](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0901-online-stock-span/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
