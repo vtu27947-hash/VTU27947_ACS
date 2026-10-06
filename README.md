@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0142-linked-list-cycle-ii) |
+| [0496-next-greater-element-i](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,4 +43,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0142-linked-list-cycle-ii) |
+## Array
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0496-next-greater-element-i) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
