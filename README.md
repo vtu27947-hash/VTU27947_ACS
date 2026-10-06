@@ -101,10 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0622-design-circular-queue](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0622-design-circular-queue/) | Medium |
 | [0901-online-stock-span](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0901-online-stock-span/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0901-online-stock-span/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0933-number-of-recent-calls/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0622-design-circular-queue](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0622-design-circular-queue/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
