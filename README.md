@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0020-valid-parentheses/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0387-first-unique-character-in-a-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Bracket Sequences
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0387-first-unique-character-in-a-string](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0622-design-circular-queue/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Sliding Window
@@ -187,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0075-sort-colors) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
