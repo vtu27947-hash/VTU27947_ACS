@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0142-linked-list-cycle-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0088-merge-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
@@ -176,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0704-binary-search) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
