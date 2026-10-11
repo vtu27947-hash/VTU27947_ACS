@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0622-design-circular-queue/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0876-middle-of-the-linked-list) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0739-daily-temperatures/) | Medium |
