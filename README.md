@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0977-squares-of-a-sorted-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/1480-running-sum-of-1d-array) |
 ## Stack
 |  |
 | ------- |
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0977-squares-of-a-sorted-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
