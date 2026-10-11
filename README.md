@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0977-squares-of-a-sorted-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0020-valid-parentheses/) | Easy |
+| [0344-reverse-string](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0387-first-unique-character-in-a-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Bracket Sequences
