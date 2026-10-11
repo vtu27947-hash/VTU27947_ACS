@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0496-next-greater-element-i](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0622-design-circular-queue/) | Medium |
+| [0704-binary-search](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0739-daily-temperatures/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0946-validate-stack-sequences/) | Medium |
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
