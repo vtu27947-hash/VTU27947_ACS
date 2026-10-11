@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0160-intersection-of-two-linked-lists) |
+| [0977-squares-of-a-sorted-array](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0977-squares-of-a-sorted-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0739-daily-temperatures/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/0946-validate-stack-sequences/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0977-squares-of-a-sorted-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu27947-hash/VTU27947_ACS/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Stack
 |  |
@@ -154,4 +156,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0088-merge-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/vtu27947-hash/VTU27947_ACS/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
